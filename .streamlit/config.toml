@@ -1,0 +1,7 @@
+[server]
+maxUploadSize = 1024
+maxMessageSize = 500
+enableStaticServing = true
+
+[theme]
+base="dark"
